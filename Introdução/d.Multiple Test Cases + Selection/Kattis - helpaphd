@@ -1,0 +1,17 @@
+a=int(input())
+
+for i in range(a):
+    
+    x=input()
+    
+    if x=="P=NP":
+        print("skipped")
+    else:
+        um=int(x[0])
+        dois=int(x[2])
+        
+        resultado=int(um+dois)
+        
+        print(resultado)
+    
+10:50:00 10:53:00 10:59:00 fazer soma de 2 inteiros, caso nao for inteiro, apresentar skipped
