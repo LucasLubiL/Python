@@ -1,0 +1,17 @@
+x=int(input())
+cont:int
+cont=1
+
+for i in range(x):
+    
+    a,b,c=map(int,input().split())
+    
+    if a<=20 and b<=20 and c<=20:
+        print(f"Case {cont}: good")
+    else:
+        print(f"Case {cont}: bad")
+        
+    cont=cont+1
+
+
+//09:25:00 09:35:00  Verificar se a caixa cabe 
