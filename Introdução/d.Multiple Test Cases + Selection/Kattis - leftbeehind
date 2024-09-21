@@ -1,0 +1,16 @@
+a,b=map(int, input().split())
+
+while a!=0 and b!=0:
+    
+    if a+b==13:
+        print("Never speak again.")
+    elif a>b:
+        print("To the convention.")
+    elif a<b:
+        print("Left beehind.")
+    else:
+        print("Undecided.")
+        
+    a,b=map(int, input().split())
+    
+11:07:00 11:10:00 11:14:00 verificar se ele vai ou nao para a conevençao conforme os potes de mel se estao ou nao azedos
