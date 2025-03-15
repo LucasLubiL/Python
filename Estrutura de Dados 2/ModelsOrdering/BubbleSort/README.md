@@ -14,4 +14,12 @@
 </div>
 <br>
 
+###### Sáida do vetor em ordem crescente e da quantiadade de iterações no 'for':
+<div>
+   <img align="center" src="https://github.com/user-attachments/assets/c6809db5-22c1-4007-bf2c-2b3199065d1d"/>
+</div>
 
+###### Resultado da saída final:
+<div>
+   <img align="center" src="https://github.com/user-attachments/assets/c6809db5-22c1-4007-bf2c-2b3199065d1d"/>
+</div>
