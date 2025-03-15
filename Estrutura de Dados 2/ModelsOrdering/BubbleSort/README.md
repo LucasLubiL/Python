@@ -31,4 +31,10 @@
 <div>
    <img align="center" src="https://github.com/user-attachments/assets/1af230e5-4696-4065-b714-f73be3fecec3"/>
 </div>
+<br>
+
+###### Sáida com um aumento de iterações para 81 vezes, ocupando mais espaço no uso de memória:
+<div>
+   <img align="center" src="https://github.com/user-attachments/assets/c3127baf-0f03-4036-9a1a-db5c3538af2c"/>
+</div>
 
