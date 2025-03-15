@@ -1,7 +1,7 @@
 # Bubble Sort
 
-#### Versão OTIMIZADA
-
+<p align="center"><strong>Versão Otimizada</strong></p>
+                                                      
 ###### Entrada do usuário para a inserção dos valores no vetor:
 <div>  
    <img align="center" src="https://github.com/user-attachments/assets/ef9067d2-794c-4bdb-9033-517b71cdc43c"/>
@@ -21,5 +21,8 @@
 
 ###### Resultado da saída final:
 <div>
-   <img align="center" src="https://github.com/user-attachments/assets/c6809db5-22c1-4007-bf2c-2b3199065d1d"/>
+   <img align="center" src="https://github.com/user-attachments/assets/a7fe4904-2644-4ffa-a1da-50e7594fc693"/>
 </div>
+<br>
+
+<p align="center"><strong>Versão NÂO Otimizada</strong></p>
