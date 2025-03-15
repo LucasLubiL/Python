@@ -26,3 +26,9 @@
 <br>
 
 <p align="center"><strong>Versão NÂO Otimizada</strong></p>
+
+###### Todo o processo inicial é o mesmo da versão otimizada, porém com uma diferença de iteração na classe "func.py", aumentando a quantidade de verificações no 'for' após elimiar o -i:
+<div>
+   <img align="center" src="https://github.com/user-attachments/assets/1af230e5-4696-4065-b714-f73be3fecec3"/>
+</div>
+
