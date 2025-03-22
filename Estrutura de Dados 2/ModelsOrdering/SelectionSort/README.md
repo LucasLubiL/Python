@@ -1,4 +1,4 @@
-# Bubble Sort
+# Selection Sort
 
 <p align="center"><strong>Versão Otimizada</strong></p>
                                                       
