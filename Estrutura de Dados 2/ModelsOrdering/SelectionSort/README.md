@@ -8,9 +8,9 @@
 </div>
 <br>
 
-###### Função "order" para ordenar os valores em outra classe instanciada:
+###### Função "order" para ordenar, pegando por base o 'i' do primeiro 'for' como menor numero para verificar com o resto do vetor no 'j' do segundo 'for' :
 <div>
-   <img align="center" src="https://github.com/user-attachments/assets/b7befc0d-8b52-4047-85df-c15db99223fb"/>
+   <img align="center" src="https://github.com/user-attachments/assets/7a8b8df2-d62b-4036-b572-8608a98f5729"/>
 </div>
 <br>
 
