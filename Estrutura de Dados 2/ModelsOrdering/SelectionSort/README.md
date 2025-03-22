@@ -24,9 +24,9 @@
    <img align="center" src="https://github.com/user-attachments/assets/6589976a-de6d-4d79-bbe6-dc676bddf5d9"/>
 </div>
 
-###### Resultado da saída final:
+###### Resultado da saída final, com 5 iterações e cerca de 5 segundos de execução:
 <div>
-   <img align="center" src="https://github.com/user-attachments/assets/a7fe4904-2644-4ffa-a1da-50e7594fc693"/>
+   <img align="center" src="https://github.com/user-attachments/assets/3b9e1058-c85a-41b2-881d-6e358e74a41d"/>
 </div>
 <br>
 
