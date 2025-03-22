@@ -14,9 +14,9 @@
 </div>
 <br>
 
-###### Sáida do vetor em ordem crescente e da quantiadade de iterações no 'for':
+###### Após a verificação do menor numero da lista, faz-se a troca adequada para a ordem crescente, verificando assim se o 'i != x' para que não ocorra comparações desnecessárias para um melhor desempenho e tempo de execução, evitando uso de memória excessivo:
 <div>
-   <img align="center" src="https://github.com/user-attachments/assets/c6809db5-22c1-4007-bf2c-2b3199065d1d"/>
+   <img align="center" src="https://github.com/user-attachments/assets/3d263895-1a50-4bb2-bb71-92ee6df88132"/>
 </div>
 
 ###### Resultado da saída final:
