@@ -2,9 +2,9 @@
 
 <p align="center"><strong>Versão Otimizada</strong></p>
                                                       
-###### Entrada do usuário para a inserção dos valores no vetor:
+###### Entrada do usuário para a inserção dos valores no vetor, com um time de iniciador de tempo de execução, um print do vetor inicial e chamada da função order na classe func.py:
 <div>  
-   <img align="center" src="https://github.com/user-attachments/assets/ef9067d2-794c-4bdb-9033-517b71cdc43c"/>
+   <img align="center" src="https://github.com/user-attachments/assets/7a6069b2-3c8a-4cc6-a55a-356e09f3a5b5"/>
 </div>
 <br>
 
