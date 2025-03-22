@@ -38,15 +38,16 @@
 </div>
 <br>
 
-###### Sáida com um aumento de iterações para 81 vezes, ocupando mais espaço no uso de memória:
+###### Sáida com um aumento de iterações para 10 vezes e tempo de execução quase 2 segundos a mais, ocupando mais espaço no uso de memória:
 <div>
-   <img align="center" src="https://github.com/user-attachments/assets/c3127baf-0f03-4036-9a1a-db5c3538af2c"/>
+   <img align="center" src="https://github.com/user-attachments/assets/22e74f21-2efd-472f-a52a-2a99b8446916"/>
+   <img align="center" src="https://github.com/user-attachments/assets/75ceb81f-f2bf-4f12-afa8-0cbd25122e3b"/>
 </div>
 <br>
 
 <p align="center"><strong>Conclusão</strong></p>
 
-###### Vemos que a versão otimizada consequentemente é melhor, pois nela se tem menas iterações, ou seja, menos espaço de memória usada, enquanto a não ptimizada é quase o dobro de iterações com mais uso de espaço de memória, sendo ineficaz, deixando a execução mais lenta do que deveria ser.
+###### A versão otimizada contém um método de verificação para evitar comaprações desncessárias com valores já ordenadas, diminuindo a metade das iterações e com tempo de execução menor, já a versão NÂO otimizada, com o dobro de iterações , elevando mais o tempo de execução, propriamente dito que o programa fica mais lento.
 
 
 
