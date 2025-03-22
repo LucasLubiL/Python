@@ -32,9 +32,9 @@
 
 <p align="center"><strong>Versão NÂO Otimizada</strong></p>
 
-###### Todo o processo inicial é o mesmo da versão otimizada, porém com uma diferença de iteração na classe "func.py", aumentando a quantidade de verificações no 'for' após elimiar o -i:
+###### Todo o processo inicial é o mesmo da versão otimizada, porém com uma diferença de iteração na classe "func.py", sem a verificação se o 'i != x', sendo assim tendo mais iterações desncessárias com valores que não precisam ser mais verificados:
 <div>
-   <img align="center" src="https://github.com/user-attachments/assets/1af230e5-4696-4065-b714-f73be3fecec3"/>
+   <img align="center" src="https://github.com/user-attachments/assets/0a74fdce-a17e-4b48-805a-eed7e359c5f7"/>
 </div>
 <br>
 
