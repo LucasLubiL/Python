@@ -1,3 +1,7 @@
+import time
+
+inicio = time.time()
+
 from func import order
 
 print("Digite 10 numeros para poder ordenar: ")
@@ -18,3 +22,7 @@ print("Numeros ordenados:", end=" ")
 print(" ".join(map(str, vetor)))
 
 print("Quantiadade passadas: ", tam[0])
+
+fim = time.time()
+
+print(F"Tempo de execução: {fim - inicio:.6f}")
