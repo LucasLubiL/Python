@@ -19,6 +19,11 @@
    <img align="center" src="https://github.com/user-attachments/assets/3d263895-1a50-4bb2-bb71-92ee6df88132"/>
 </div>
 
+###### Saída final, apresentando o vetor em ordem crescente, número de iterações e o tempo de execução:
+<div>
+   <img align="center" src="https://github.com/user-attachments/assets/6589976a-de6d-4d79-bbe6-dc676bddf5d9"/>
+</div>
+
 ###### Resultado da saída final:
 <div>
    <img align="center" src="https://github.com/user-attachments/assets/a7fe4904-2644-4ffa-a1da-50e7594fc693"/>
