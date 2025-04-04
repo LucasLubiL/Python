@@ -1,4 +1,4 @@
-# Selection Sort
+# Insertion Sort
 
 <p align="center"><strong>Versão Otimizada</strong></p>
                                                       
