@@ -14,9 +14,9 @@
 </div>
 <br>
 
-###### 3 - Após a verificação do menor numero da lista, faz-se a troca adequada para a ordem crescente, verificando assim se o 'i != x' para que não ocorra comparações desnecessárias para um melhor desempenho e tempo de execução, evitando uso de memória excessivo:
+###### 3 - Preparação para a saída final, com o vetoro ordenado, quantidades passadas em trocas e o tempo de execução do sistema:
 <div>
-   <img align="center" src="https://github.com/user-attachments/assets/3d263895-1a50-4bb2-bb71-92ee6df88132"/>
+   <img align="center" src="https://github.com/user-attachments/assets/53a3c1a0-0bb7-4fd9-af0c-59f94d58f1e4"/>
 </div>
 
 ###### 4 - Saída final, apresentando o vetor em ordem crescente, número de iterações e o tempo de execução:
