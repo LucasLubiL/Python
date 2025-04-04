@@ -19,16 +19,10 @@
    <img align="center" src="https://github.com/user-attachments/assets/53a3c1a0-0bb7-4fd9-af0c-59f94d58f1e4"/>
 </div>
 
-###### 4 - Saída final, apresentando o vetor em ordem crescente, número de iterações e o tempo de execução:
+###### 4 - Resultado final, com 3 iterações e tempo de execução o mínimo possível:
 <div>
-   <img align="center" src="https://github.com/user-attachments/assets/6589976a-de6d-4d79-bbe6-dc676bddf5d9"/>
+   <img align="center" src="https://github.com/user-attachments/assets/dc413679-6439-4f78-8848-b55e57bf673f"/>
 </div>
-
-###### 5 - Resultado da saída final, com 5 iterações e cerca de 5 segundos de execução:
-<div>
-   <img align="center" src="https://github.com/user-attachments/assets/3b9e1058-c85a-41b2-881d-6e358e74a41d"/>
-</div>
-<br>
 
 <p align="center"><strong>Versão NÂO Otimizada</strong></p>
 
