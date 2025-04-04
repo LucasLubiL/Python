@@ -26,20 +26,9 @@
 
 <p align="center"><strong>Versão NÂO Otimizada</strong></p>
 
-###### 1 - Todo o processo inicial é o mesmo da versão otimizada, porém com uma diferença de iteração na classe "func.py", sem a verificação se o 'i != x', sendo assim tendo mais iterações desncessárias com valores que não precisam ser mais verificados:
-<div>
-   <img align="center" src="https://github.com/user-attachments/assets/0a74fdce-a17e-4b48-805a-eed7e359c5f7"/>
-</div>
-<br>
-
-###### 2 - Sáida com um aumento de iterações para 10 vezes e tempo de execução quase 2 segundos a mais, ocupando mais espaço no uso de memória:
-<div>
-   <img align="center" src="https://github.com/user-attachments/assets/22e74f21-2efd-472f-a52a-2a99b8446916"/>
-   <img align="center" src="https://github.com/user-attachments/assets/75ceb81f-f2bf-4f12-afa8-0cbd25122e3b"/>
-</div>
-<br>
+###### 1 - A versão NÃO OTIMIZADA não ofi capaz dfe produzir, pois todas as formas acrescentadas para se ter mais iterações e trocas estava quebrando a ordem dos números, no entanto só se tem a versão OTIMIZADA.
 
 <p align="center"><strong>Conclusão</strong></p>
 
-###### A versão otimizada contém um método de verificação para evitar comaprações desncessárias com valores já ordenadas, diminuindo a metade das iterações e com tempo de execução menor, já a versão NÂO otimizada, com o dobro de iterações , elevando mais o tempo de execução, propriamente dito que o programa fica mais lento.
+###### A versão otimizada contém uma únida maneira encontrada para ordenar os números, com as devidas iterações e trocas, sem algo mais e sem algo menos, sendo assim com uma versão NÃO OTIMIZADA sendo incapaz de produzir a mesma.
 
