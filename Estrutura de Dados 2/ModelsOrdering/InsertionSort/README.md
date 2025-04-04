@@ -2,9 +2,9 @@
 
 <p align="center"><strong>Versão Otimizada</strong></p>
                                                       
-###### 1 - Entrada do usuário para a inserção dos valores no vetor, com um time de iniciador de tempo de execução, um print do vetor inicial e chamada da função order na classe func.py:
+###### 1 - Entrada padrão do sistema com valores desordenados, quantidades passadas como tam[0], print do vetor desordenado e chamada da função order na classe func.py:
 <div>  
-   <img align="center" src="https://github.com/user-attachments/assets/7a6069b2-3c8a-4cc6-a55a-356e09f3a5b5"/>
+   <img align="center" src="https://github.com/user-attachments/assets/41ac74cf-c91a-4f85-a8ae-73a3f2087467"/>
 </div>
 <br>
 
