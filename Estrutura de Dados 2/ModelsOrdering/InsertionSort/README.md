@@ -2,15 +2,15 @@
 
 <p align="center"><strong>Versão Otimizada</strong></p>
                                                       
-###### 1 - Entrada padrão do sistema com valores desordenados, quantidades passadas como tam[0], print do vetor desordenado e chamada da função order na classe func.py:
+###### 1 - Entrada padrão do sistema com valores desordenados, início do 'time' para saber o tempo de execução do programa, quantidades passadas como tam[0], print do vetor desordenado e chamada da função order na classe func.py:
 <div>  
    <img align="center" src="https://github.com/user-attachments/assets/41ac74cf-c91a-4f85-a8ae-73a3f2087467"/>
 </div>
 <br>
 
-###### 2 - Função "order" para ordenar, pegando por base o 'i' do primeiro 'for' como menor numero para verificar com o resto do vetor no 'j' do segundo 'for' :
+###### 2 - Na função order, pega-se o tamanho do vetor para as passadas necessárias, resgatando o valor da primeira posição 'i' juntamente com um 'j -1' da iteração atual, sendo assim, entrando no 'While' para que seja executado a verificação ate 'j' for >= 0 e o vetor da porsição 'j' for maior que o valor da iteração de 'i', fazendo a troca ate encontrar um valor maior que ele ou 'j' ser igual a -1, sendo assim ordenando conforme o necessário, contabilizando o número de passadas:
 <div>
-   <img align="center" src="https://github.com/user-attachments/assets/7a8b8df2-d62b-4036-b572-8608a98f5729"/>
+   <img align="center" src="https://github.com/user-attachments/assets/9cef2ac3-45df-4932-9f72-b6004dcc7fad"/>
 </div>
 <br>
 
