@@ -8,9 +8,9 @@
 </div>
 <br>
 
-###### 2 - Na função order, pega-se o tamanho do vetor para as passadas necessárias, resgatando o valor da primeira posição 'i' juntamente com um 'j -1' da iteração atual, sendo assim, entrando no 'While' para que seja executado a verificação ate 'j' for >= 0 e o vetor da porsição 'j' for maior que o valor da iteração de 'i', fazendo a troca ate encontrar um valor maior que ele ou 'j' ser igual a -1, sendo assim ordenando conforme o necessário, contabilizando o número de passadas:
+###### 2 - Na função order, pega-se o tamanho do vetor para as passadas necessárias, resgatando o valor da primeira posição 'i' juntamente com um 'j -1' da iteração atual, sendo assim, entrando no 'While' para que seja executado a verificação ate 'j' for >= 0 e o vetor da porsição 'j' for maior que o valor da iteração de 'i', fazendo a troca ate encontrar um valor maior que ele ou 'j' ser igual a -1(Juntamente com um print mostrando as trocas sendo feitas), sendo assim ordenando conforme o necessário, contabilizando o número de passadas:
 <div>
-   <img align="center" src="https://github.com/user-attachments/assets/9cef2ac3-45df-4932-9f72-b6004dcc7fad"/>
+   <img align="center" src="https://github.com/user-attachments/assets/f93ee284-3ea4-43e9-853d-7ddb4f3158a1"/>
 </div>
 <br>
 
