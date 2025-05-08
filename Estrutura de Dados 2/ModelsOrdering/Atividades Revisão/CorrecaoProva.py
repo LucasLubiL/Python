@@ -53,7 +53,8 @@ print(bol)
 
 # 4) a - Se fizer essa alteração, o array na posição 0(array[0]) nunca vai ser verificado.
 # b - Se fizer essa alteração, o min_index pega a última posição e o segundo "for" começa com "i+1" ou seja, lixo de memória, o sistema da problema
-# c - 
+# c - Nesse caso você não teria uma alteração a lógica, mas cria uma situação desnecessária pois não é preciso trocar um número por ele mesmo,
+# mesmo que nesse caso v[min-index] fosse o menor número, um número igual a ele estaria logo após ele na lista
 
 ########################################################################################################
 
