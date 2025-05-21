@@ -27,7 +27,7 @@ def merge_sort(array):
     if len(array) <= 1:
         return array
     
-    mid = len(array)//2
+    mid =  (len(array) - 1)// 2
     esq = array[:mid]
     dir = array[mid:]
 
@@ -36,10 +36,14 @@ def merge_sort(array):
 
     return merge(sorEsq, sorDir)
 
-array = [1,2,3,4,5]
+array = [1,2,3,4,5,6,3,2,9,6,4,0,3]
 
 print(array)
 
 ord = merge_sort(array)
 
 print(ord)
+
+# a) No +1 não houve diferenças, o resultado foi o mesmo
+# b) Funcionou apenas para o +1
+# c) No -1 houve falha do sistema, pois irá descarta um valor importante do array para dividir para esquerda e para a direita, que acaba pegando lixo de memória
